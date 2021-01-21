@@ -32,6 +32,7 @@ item[;price] *= 0.8
 end
 item
 end
+end
 
 def checkout(cart, coupons)
   # Consult README for inputs and outputs
